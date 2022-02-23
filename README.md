@@ -5,7 +5,7 @@
 3. Added the same logic through Java code.
 
 ### These are some of the sample images of the application:
-<img src = "Images/Screenshot(732)">
-<img src = "Images/Screenshot(733)">
-<img src = "Images/Screenshot(734)">
-<img src = "Images/Screenshot(735)">
+<img src = "images/Screenshot (732).png">
+<img src = "images/Screenshot (733).png">
+<img src = "images/Screenshot (734).png">
+<img src = "images/Screenshot (735).png">
